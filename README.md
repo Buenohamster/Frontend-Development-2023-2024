@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screenshot1.png" width="375px" alt="screenshot van home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/Screenshot (242).png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screenshot2.png" width="375px" alt="screenshot van sectoren pagina">
  
 </details>
 
@@ -57,6 +57,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - De maas website is best goed gemaakt en maakt gebruikt van de juiste headings.
+  - Er zitten veel slordigheden in de code zoals divs die afsluiten maar nooit geopend zijn en ontbrekende alts bij foto's
+  - De sectoren pagina bevat een blok text dat breder is dan het (mobiel) scherm (weer een slordigheids fout)
+  - De knoppen en links zijn lekker groot en daarmee beter te gebruiker voor mensen met een beperking
+  - Het contrast van de tekst is overal goed en draagt bij aan een beter leesbare website
 
 </details>
 
